@@ -29,12 +29,9 @@ We welcome contributions from developers, AI enthusiasts, and mental health advo
 3. Make your changes and commit them.
 4. Submit a **Pull Request (PR)** for review.
 
-Check out our [Contribution Guidelines](https://github.com/Sukh-Mind/Sukh-Mind/blob/main/CONTRIBUTING.md) for more details.
-
 ## 📬 Get in Touch
 
-📧 **Email:** sukhmind.ai@gmail.com  
-🌐 **Website:** [Coming Soon]  
+🌐 **Website:** [Sukh-Mind Website](https://sukh-mind.vercel.app)  
 🛠 **GitHub:** [Sukh-Mind Organization](https://github.com/Sukh-Mind)  
 
 ## 📜 License
